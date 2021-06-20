@@ -24,5 +24,6 @@ To Visit App:
 
 ## Project Screenshot
 
-![screenshot](../src/images/Screenshot.png)
+![screenshot](![Screenshot from 2021-06-20 15-31-48](https://user-images.githubusercontent.com/64004289/122676170-11b53d00-d1dd-11eb-8681-0d1705e900ae.png)
+)
 
