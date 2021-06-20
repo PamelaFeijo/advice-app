@@ -4,7 +4,7 @@ An application used to generate advice, built with React, JavaScript, and CSS.
 
 ## Project Status
 
-First version is live. You can see the working demo [here](https://lazynight.netlify.app).
+First version is live. You can see the working demo [here](adviceforyou-app.netlify.app).
 
 ## Installation and Setup Instructions
 
