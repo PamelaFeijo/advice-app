@@ -4,11 +4,11 @@ An application used to generate advice.
 
 ## Technologies
 
-:heavy_check_mark: React
-:heavy_check_mark: JavaScript
-:heavy_check_mark: CSS
-:heavy_check_mark: Built with Class Component
-:heavy_check_mark: Get requests to Advice Slip JSON API with axios
+<p>:heavy_check_mark: React</p>
+<p>:heavy_check_mark: JavaScript</p>
+<p>:heavy_check_mark: CSS</p>
+<p>:heavy_check_mark: Built with Class Component</p>
+<p>:heavy_check_mark: Get requests to Advice Slip JSON API with axios</p>
 
 ## Project Status
 
