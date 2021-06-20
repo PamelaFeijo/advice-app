@@ -1,4 +1,4 @@
-## :last_quarter_moon_with_face: lazynight :star2:
+## advice app
 
 An application used to generate advice, built with React, JavaScript, and CSS.
 
