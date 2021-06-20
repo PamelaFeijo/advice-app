@@ -12,7 +12,7 @@ An application used to generate advice.
 
 ## Project Status
 
-First version is live. You can see the working demo [here](https://adviceforyou-app.netlify.app/) https://adviceforyou-app.netlify.app/. 
+First version is live. You can see the working demo [here](https://adviceforyou-app.netlify.app/). 
 
 ## Installation and Setup Instructions
 
